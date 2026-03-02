@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0136-single-number) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/2149-rearrange-array-elements-by-sign) |
