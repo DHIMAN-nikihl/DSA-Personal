@@ -26,6 +26,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1816-truncate-sentence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0054-spiral-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0048-rotate-image) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,4 +117,12 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
