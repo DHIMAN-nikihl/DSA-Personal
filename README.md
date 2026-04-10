@@ -26,6 +26,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1816-truncate-sentence) |
+| [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@
 | [0088-merge-sorted-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +106,12 @@
 |  |
 | ------- |
 | [1816-truncate-sentence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1816-truncate-sentence) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
