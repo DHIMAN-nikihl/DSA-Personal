@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@
 | [0031-next-permutation](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0189-rotate-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
