@@ -34,6 +34,7 @@
 | [1816-truncate-sentence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -62,6 +63,7 @@
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
@@ -147,6 +151,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0493-reverse-pairs) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -163,4 +168,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
