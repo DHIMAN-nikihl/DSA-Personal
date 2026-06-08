@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1480-running-sum-of-1d-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1672-richest-customer-wealth) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
 |  |
