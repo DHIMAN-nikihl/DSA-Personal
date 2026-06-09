@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1480-running-sum-of-1d-array) |
@@ -162,6 +163,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
