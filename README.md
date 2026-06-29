@@ -116,6 +116,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0509-fibonacci-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
@@ -170,6 +172,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -229,4 +232,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
