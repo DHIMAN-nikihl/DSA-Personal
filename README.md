@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0237-delete-node-in-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
