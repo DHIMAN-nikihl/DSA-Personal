@@ -173,6 +173,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0876-middle-of-the-linked-list) |
 ## Memoization
