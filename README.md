@@ -44,6 +44,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -112,6 +113,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [0048-rotate-image](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
@@ -171,6 +174,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
@@ -256,6 +260,7 @@
 | [0904-fruit-into-baskets](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
