@@ -107,6 +107,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
 | [1816-truncate-sentence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1816-truncate-sentence) |
 ## Greedy
 |  |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
