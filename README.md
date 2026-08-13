@@ -104,6 +104,7 @@
 | [0001-two-sum](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0141-linked-list-cycle) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1816-truncate-sentence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1816-truncate-sentence) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0930-binary-subarrays-with-sum) |
