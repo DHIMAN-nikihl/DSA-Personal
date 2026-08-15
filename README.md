@@ -97,6 +97,7 @@
 | [0148-sort-list](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0242-valid-anagram) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -115,6 +116,7 @@
 | [0169-majority-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0904-fruit-into-baskets) |
@@ -196,6 +198,7 @@
 | [0076-minimum-window-substring](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1021-remove-outermost-parentheses) |
