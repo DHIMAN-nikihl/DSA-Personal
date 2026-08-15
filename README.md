@@ -113,6 +113,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0560-subarray-sum-equals-k) |
@@ -194,6 +195,7 @@
 | [0014-longest-common-prefix](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
