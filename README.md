@@ -190,6 +190,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1816-truncate-sentence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1816-truncate-sentence) |
 ## Greedy
@@ -323,4 +324,9 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
