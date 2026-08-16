@@ -98,6 +98,7 @@
 | [0169-majority-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0451-sort-characters-by-frequency) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -118,6 +119,7 @@
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0930-binary-subarrays-with-sum) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0992-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
@@ -200,6 +203,7 @@
 | [0205-isomorphic-strings](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -350,4 +354,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
