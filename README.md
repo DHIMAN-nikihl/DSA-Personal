@@ -207,6 +207,7 @@
 | [0796-rotate-string](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -342,10 +343,12 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DHIMAN-nikihl/DSA-Personal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
